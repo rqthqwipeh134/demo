@@ -1,0 +1,9 @@
+homework/DO/UserAccessDTO.class
+homework/Application.class
+homework/DO/AuthenticationHeader.class
+homework/Controller/UserController.class
+homework/Config/WebConfig.class
+homework/Utils/RoleAuthFilter.class
+homework/Service/AuthenticationService.class
+homework/Controller/AdminController.class
+homework/Service/AuthenticationService$AuthenticationException.class

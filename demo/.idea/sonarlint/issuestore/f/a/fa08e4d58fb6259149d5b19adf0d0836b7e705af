@@ -1,0 +1,17 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–áÕ‘øÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Äâøãþÿÿÿÿ
+O
+java:S3400"9Remove this method and declare a constant for this value.(ÒÇÿ©
+G
+java:S1172"1Remove this unused method parameter "authHeader".(ê÷„²
+Z
+java:S1854"?Remove this useless assignment to local variable "authHeader1".(é•ÿÕýÿÿÿÿ
+<
+java:S1452"&Remove usage of generic wildcard type.(•©‚±
+K
+java:S1481"0Remove this unused "authHeader1" local variable.(é•ÿÕýÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(ü‰¸¸ûÿÿÿÿ
+J
+java:S1068"/Remove this unused "ACCESS_FILE" private field.(Äâøãþÿÿÿÿ
