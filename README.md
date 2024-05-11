@@ -1,5 +1,7 @@
 Home code
+
 Manager System
+
 Please design a Spring/ SpringBoot system that would do the following:
 Basic functionality
 1. There are 2 kinds of roles in this system: admin & user. Use a header encoded in
